@@ -1,10 +1,8 @@
 -  # Hi, I'm Akash Awasthi
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=for-the-badge)
-
  Backend Developer | Data Science & Machine Learning Enthusiast  
-💻 Python | SQL | Flask | REST APIs  
-📊 Passionate about building backend systems and solving real-world problems using data  
+ Python | SQL | Flask | REST APIs  
+ Passionate about building backend systems and solving real-world problems using data  
 
 ---
 
