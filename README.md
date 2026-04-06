@@ -105,10 +105,10 @@ To secure an **internship or entry-level position** as a Backend Developer or Da
 
 ## Contact Information
 
-📧 Email: akash777awasthi@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/akash-awasthi-a08ba325b  
-💻 GitHub: https://github.com/Akash070A  
-📱  Mobile: +91-9882768774
+ Email: akash777awasthi@gmail.com  
+ LinkedIn: https://www.linkedin.com/in/akash-awasthi-a08ba325b  
+ GitHub: https://github.com/Akash070A  
+ Mobile: +91-9882768774
 
 <!---
 Akash070A/Akash070A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
