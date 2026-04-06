@@ -1,14 +1,12 @@
--  # 👋 Hi, I'm Akash Awasthi
+-  # Hi, I'm Akash Awasthi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=for-the-badge)
 
-🎓 Fresher | Backend Developer | Data Science & Machine Learning Enthusiast  
+ Backend Developer | Data Science & Machine Learning Enthusiast  
 💻 Python | SQL | Flask | REST APIs  
 📊 Passionate about building backend systems and solving real-world problems using data  
 
 ---
-
-## 🏷️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +31,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an aspiring **Backend Developer and Data Science enthusiast** currently building strong skills in Python, SQL, and API development. As a fresher, I focus on developing practical projects that demonstrate my ability to design backend systems, manage databases, and apply machine learning techniques to real-world datasets.
 
@@ -41,7 +39,7 @@ I am highly motivated to learn new technologies, improve my problem-solving skil
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages**  
 Python, SQL  
@@ -60,9 +58,9 @@ Data Structures, Algorithms, Object-Oriented Programming (OOP), Debugging, Syste
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🔹 Python Finance System Backend
+###  Python Finance System Backend
 - Developed backend APIs to manage financial transactions and user data  
 - Implemented business logic and data validation  
 - Integrated SQL database for secure data storage  
@@ -72,7 +70,7 @@ Python, Flask, SQL, REST API
 
 ---
 
-### 🔹 Machine Learning Prediction Model
+###  Machine Learning Prediction Model
 - Built a machine learning model to analyze data and make predictions  
 - Performed data preprocessing and feature engineering  
 - Evaluated model performance using standard metrics  
@@ -82,7 +80,7 @@ Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### 🔹 Data Analysis Project
+###  Data Analysis Project
 - Cleaned and analyzed datasets to identify trends and patterns  
 - Created visualizations to present insights clearly  
 
@@ -91,7 +89,7 @@ Python, Pandas, Matplotlib
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced Backend Development  
 - SQL Database Optimization  
@@ -101,13 +99,13 @@ Python, Pandas, Matplotlib
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 To secure an **internship or entry-level position** as a Backend Developer or Data Science professional where I can apply my technical skills, gain real-world experience, and grow as a software developer.
 
 ---
 
-## 📫 Contact Information
+## Contact Information
 
 📧 Email: akash777awasthi@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/akash-awasthi-a08ba325b  
