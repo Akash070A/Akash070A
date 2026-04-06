@@ -101,14 +101,6 @@ Python, Pandas, Matplotlib
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
----
-
 ## 🎯 Career Objective
 
 To secure an **internship or entry-level position** as a Backend Developer or Data Science professional where I can apply my technical skills, gain real-world experience, and grow as a software developer.
